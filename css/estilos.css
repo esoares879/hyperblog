@@ -25,7 +25,7 @@ body
     font-size: 0.8em;
 }
 
-#container
+#container 
 {
     width: 70%;
     padding: 1em;
@@ -42,4 +42,13 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;   /*color del fondo*/
+    color: white;  /*color del texto*/
+    text-align: center;  /*aorientacion el texto*/
+    padding: 0.5em;  /*para espaciar el texto*/
+    font-weight: bold;   /*estilo de fuente*/
 }
